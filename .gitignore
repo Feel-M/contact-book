@@ -1,0 +1,7 @@
+#compiled
+contacts
+main
+*.o
+*.out
+#Files
+PROJECT.md
